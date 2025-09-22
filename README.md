@@ -1,6 +1,6 @@
-# BIENVENIDO A YaelChecker
+# BIENVENIDO A TMchecker
 
-Con YaelChecker podrás tener tu propio generador de tarjetas personalizado y online con **Github Pages.**
+Con TMchecker podrás tener tu propio generador de tarjetas personalizado y online con **Github Pages.**
 
 ## PREVIEW de como quedaría:
 ![enter image description here](capturas/final.png)
